@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-20T10:16:07.133Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="NXNro_QzhNqGazQzSg7W" version="24.7.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-07-20T10:19:50.930Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="2wPUF9wBh1JvlPv08dHq" version="24.7.2" type="github" pages="3">
   <diagram name="标准尺寸图" id="8MFRhUTCMbz-YKNLZu8n">
     <mxGraphModel dx="1015" dy="557" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -263,6 +263,12 @@
             <mxPoint x="494" y="937" as="sourcePoint" />
             <mxPoint x="257" y="287" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8YeTrX9ISDJ5xc8eP85O-5" value="多球训练图" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontStyle=1" vertex="1" parent="2EWXqbOYiHweidpOL_oO-1">
+          <mxGeometry x="7" y="16" width="128" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="8YeTrX9ISDJ5xc8eP85O-8" value="by lu" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontStyle=1" vertex="1" parent="2EWXqbOYiHweidpOL_oO-1">
+          <mxGeometry x="673" y="1100" width="128" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
