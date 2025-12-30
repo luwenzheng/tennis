@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="28.2.7" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="28.2.8" pages="5">
   <diagram name="标准尺寸图" id="8MFRhUTCMbz-YKNLZu8n">
     <mxGraphModel dx="1015" dy="557" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -341,16 +341,10 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QwftuUE-LFSefx7mj7En" name="第 5 页">
-    <mxGraphModel dx="2241" dy="348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1540" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bHE-ofhLLH59TYqva7kt-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1280" y="160" width="574.802" height="157.48" as="geometry" />
-        </mxCell>
-        <mxCell id="bHE-ofhLLH59TYqva7kt-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1241" y="213.15" width="263.779" height="51.181" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
